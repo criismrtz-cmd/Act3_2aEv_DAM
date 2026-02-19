@@ -1,6 +1,6 @@
 import unittest
 # Cambia esto por el import correcto de tu función
-from tu_modulo_principal import crear_usuario   # ← AJUSTA ESTO
+from ED_Codigo_Testear import crear_usuario
 
 
 class TestEdadesLimite(unittest.TestCase):

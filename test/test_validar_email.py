@@ -1,5 +1,6 @@
 import unittest
-from registro_usuario import validar_email
+from ED_Codigo_Testear import validar_email
+
 
 
 class TestValidarEmail(unittest.TestCase):

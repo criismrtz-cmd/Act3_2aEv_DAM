@@ -1,5 +1,6 @@
 import unittest
-from registro_usuario import crear_usuario
+from ED_Codigo_Testear import crear_usuario
+
 
 class TestRegistroUsuario(unittest.TestCase):
 
